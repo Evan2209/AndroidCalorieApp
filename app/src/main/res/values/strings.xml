@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">MDA2</string>
+
+    //pasta
+    <string name="salmonIngredients">Salmon
+\n1 tablespoon garlic powder
+\n1 tablespoon dried basil
+\n½ teaspoon salt
+\n4 (6 ounce) fillets salmon
+\n2 tablespoons butter
+\n4 lemon wedges    </string>
+    <string name="salmonDesc">Gather all ingredients
+\nStir garlic powder, basil, and salt together in a small bowl.
+\nRub the mixture evenly over salmon.
+\nMelt butter in a large skillet over medium heat. Add salmon and cook until browned and flaky, about 5 minutes per side.
+\nServe salmon with lemon wedges.
+\nSalmon is ready!    </string>
+    //maggi
+    <string name="porridgeIngredients">Porridge
+\n350ml milk
+\nGreek yogurt</string>
+    <string name="porridgeDesc">put 50g porridge oats into a saucepan
+\npour 350ml of milk an sprinkle a pinch of salt
+\nbring to a boil and simmer for 4-5 minutes
+\nstirring from time to time to make sure the porridge does not stick
+\nporridge is ready!</string>
+    //pea soup
+    <string name="peaSoupIngredients">Frozen peas
+\nRed onion
+\nGarlic
+\nFresh Ginger
+\nOlive Oil
+\nVegetable Stock</string>
+    <string name="peaSoupDesc">roughly chop the onion and ginger and crush the garlic.
+\ncombine the olive oil, garlic, onion, and ginger and fry until the onion softens.
+\nAdd the frozen peas and vegetable stock and boil for 5 minutes.
+\nHand or machine blend until smooth.
+\nPea Soup is ready!</string>
+    //beetroot salad
+    <string name="beetrootIngredients">Beetroot
+\nFeta cheese
+\nRocket leaves
+\nOlive oil
+\nBalsamic vinegar
+\nSalt and pepper</string>
+    <string name="beetrootDesc">Slice the beetroot into thin pieces.
+\nCombine beetroot slices, feta cheese, and rocket leaves in a bowl.
+\nDrizzle olive oil and balsamic vinegar over the salad.
+\nSeason with salt and pepper.
+\nBeetroot Salad is ready!</string>
+    //rice
+    <string name="RiceIngredients">Rice
+\nWater
+\nSalt</string>
+    <string name="riceDesc">Rinse 1 cup of rice under cold water until water runs clear.
+\nCombine rice with 2 cups of water and a pinch of salt in a pot.
+\nBring to a boil, then lower heat and cover.
+\nCook for 18-20 minutes, then fluff with a fork.
+\nRice is ready!</string>
+    //chicken
+    <string name="chickenIngredients">Chicken breasts
+\nOlive oil
+\nSalt
+\nPepper
+\nGarlic powder
+\nPaprika</string>
+    <string name="chickenDesc">Preheat oven to 375°F (190°C).
+\nRub chicken breasts with olive oil, then season with salt, pepper, garlic powder, and paprika.
+\nPlace chicken in a baking dish and bake for 25-30 minutes or until fully cooked.
+\nChicken is ready!</string>
+
+    //beef
+    <string name="beefIngredients">Ground beef
+\nOnion
+\nGarlic
+\nTomato sauce
+\nSalt
+\nPepper</string>
+    <string name="beefDesc">Heat a skillet over medium heat and add ground beef.
+\nCook until browned, then add chopped onion and minced garlic.
+\nStir in tomato sauce and season with salt and pepper.
+\nSimmer for 10 minutes.
+\nBeef is ready!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

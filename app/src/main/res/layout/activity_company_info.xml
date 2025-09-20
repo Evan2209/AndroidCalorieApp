@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CompanyInfo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F1F8E9"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/lblCompInfoTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Company Ethos"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/txtCompanyEthos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="At Greenhaven, we believe that nourishing the body goes hand in hand with nurturing the planet. Our ethos is built on three guiding principles: Wellness, Sustainability, and Community.  Wellness: We are committed to crafting wholesome, delicious meals that fuel your body and mind. Using fresh, locally sourced, and organic ingredients, our menu is designed to celebrate natural flavors and promote a healthier lifestyle.  Sustainability: Protecting the environment is at the heart of everything we do. From eco-friendly packaging to reducing food waste, we aim to leave a positive impact on the planet, one plate at a time.  Community: Greenhaven is more than a restaurant; it's a space where people can connect over a shared love for good food and mindful living. We support local farmers, artisans, and initiatives that uplift our community.  Together, let's embrace a healthier, greener future. Welcome to Greenhaven, where every meal is a step toward balance and harmony."
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Healthy Food Tips"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/TextView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Linked below are some healthy food tips" />
+
+        <TextView
+            android:id="@+id/hyperlink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:padding="16dp"
+            android:text="Simple Healthy Meal Tricks"
+            android:textColorLink="@color/Blue"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/hyperlink1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:padding="16dp"
+            android:text="Top 10 Healthy Meals"
+            android:textColorLink="@color/Blue"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
